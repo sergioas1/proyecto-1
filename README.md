@@ -1,2 +1,2 @@
 # proyecto-1
-Para iniciarme en GitHub. Es decir, mi bautismo.
+<p>Para iniciarme en GitHub. Es decir, mi bautismo.<br> Me llamo Sergio y quiero ser programador web.</p>
